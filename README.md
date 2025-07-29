@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving in CS/Math**
 
-- 🌱 I’m currently learning **HTML, CSS, JS**
+- 🌱 I’m currently learning **HTML and Java!
 
 - 👨‍💻 All of my projects are available at [https://github.com/filip9121](https://github.com/filip9121)
 
