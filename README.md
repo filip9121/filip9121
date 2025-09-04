@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Filip Halas</h1>
-<h3 align="center">A passionate developer from Slovakia </h3>
+<h3 align="center">A passionate developer from Slovakia. Studying at IMC Krems! </h3>
 
 - 🌱 I’m currently learning **Java!**
 
